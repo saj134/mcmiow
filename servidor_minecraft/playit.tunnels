@@ -56,16 +56,16 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "faculty-nicole.gl.at.ply.gg",
+          "assigned_domain": "each-flows.gl.at.ply.gg",
           "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "ec38e357-3b7b-4cdb-9f6a-0646cd8b0862",
+          "id": "c00f296c-2289-449d-ac49-ba1823260cb3",
           "ip_hostname": "26.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 5903,
-          "port_start": 5902,
+          "port_end": 5892,
+          "port_start": 5891,
           "region": "global",
           "static_ip4": "147.185.221.26",
           "static_ip6": "2602:fbaf:0:1::1a",
@@ -73,19 +73,19 @@
         },
         "status": "allocated"
       },
-      "created_at": "2025-09-18T07:44:12.678457Z",
+      "created_at": "2025-09-18T08:02:36.847209Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "1e582a76-0307-4b72-94d3-929de5870fc6",
+      "id": "50213ec8-019b-46cb-925b-e109de4e64f9",
       "name": "unnamed",
       "origin": {
         "data": {
           "agent_id": "54b5c4e1-6244-41b6-a3ac-4802af866a18",
           "agent_name": "from-key-996e",
           "local_ip": "127.0.0.1",
-          "local_port": 5902
+          "local_port": 5891
         },
         "type": "agent"
       },
