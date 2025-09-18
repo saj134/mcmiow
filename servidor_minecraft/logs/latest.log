@@ -1,0 +1,116 @@
+[07:50:38] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
+[07:50:38] [main/INFO]: Loading 50 mods:
+	- fabric-api 0.97.3+1.20.4
+	   |-- fabric-api-base 0.4.37+78d798af4f
+	   |-- fabric-api-lookup-api-v1 1.6.50+82b1bb3e4f
+	   |-- fabric-biome-api-v1 13.0.17+78d798af4f
+	   |-- fabric-block-api-v1 1.0.17+3e2216cb4f
+	   |-- fabric-block-view-api-v2 1.0.5+78d798af4f
+	   |-- fabric-blockrenderlayer-v1 1.1.47+78d798af4f
+	   |-- fabric-client-tags-api-v1 1.1.8+78d798af4f
+	   |-- fabric-command-api-v1 1.2.42+f71b366f4f
+	   |-- fabric-command-api-v2 2.2.21+78d798af4f
+	   |-- fabric-commands-v0 0.2.59+df3654b34f
+	   |-- fabric-containers-v0 0.1.88+df3654b34f
+	   |-- fabric-content-registries-v0 5.0.16+78d798af4f
+	   |-- fabric-convention-tags-v1 1.5.11+78d798af4f
+	   |-- fabric-crash-report-info-v1 0.2.24+78d798af4f
+	   |-- fabric-data-attachment-api-v1 1.1.5+b90db5744f
+	   |-- fabric-data-generation-api-v1 13.2.6+5c0133444f
+	   |-- fabric-dimensions-v1 2.1.63+6605d1a84f
+	   |-- fabric-entity-events-v1 1.6.2+09fc25014f
+	   |-- fabric-events-interaction-v0 0.7.2+389931eb4f
+	   |-- fabric-events-lifecycle-v0 0.2.76+df3654b34f
+	   |-- fabric-game-rule-api-v1 1.0.47+78d798af4f
+	   |-- fabric-item-api-v1 2.3.1+cadc140c4f
+	   |-- fabric-item-group-api-v1 4.0.27+ee30b13a4f
+	   |-- fabric-key-binding-api-v1 1.0.42+78d798af4f
+	   |-- fabric-keybindings-v0 0.2.40+df3654b34f
+	   |-- fabric-lifecycle-events-v1 2.3.1+a67ffb5d4f
+	   |-- fabric-loot-api-v2 2.1.10+78d798af4f
+	   |-- fabric-message-api-v1 6.0.6+78d798af4f
+	   |-- fabric-mining-level-api-v1 2.1.66+78d798af4f
+	   |-- fabric-model-loading-api-v1 1.0.9+78d798af4f
+	   |-- fabric-models-v0 0.4.8+9386d8a74f
+	   |-- fabric-networking-api-v1 3.1.9+6abb6a4b4f
+	   |-- fabric-object-builder-api-v1 13.1.0+dba1195c4f
+	   |-- fabric-particles-v1 1.1.8+78d798af4f
+	   |-- fabric-recipe-api-v1 2.0.22+78d798af4f
+	   |-- fabric-registry-sync-v0 4.0.21+ee30b13a4f
+	   |-- fabric-renderer-api-v1 3.2.5+78d798af4f
+	   |-- fabric-renderer-indigo 1.5.6+d331d3144f
+	   |-- fabric-renderer-registries-v1 3.2.54+df3654b34f
+	   |-- fabric-rendering-data-attachment-v1 0.3.43+73761d2e4f
+	   |-- fabric-rendering-fluids-v1 3.1.2+e761c6694f
+	   |-- fabric-rendering-v0 1.1.57+df3654b34f
+	   |-- fabric-rendering-v1 3.2.1+6fd945a04f
+	   |-- fabric-resource-conditions-api-v1 2.3.15+78d798af4f
+	   |-- fabric-resource-loader-v0 0.11.21+ee30b13a4f
+	   |-- fabric-screen-api-v1 2.0.18+78d798af4f
+	   |-- fabric-screen-handler-api-v1 1.3.57+78d798af4f
+	   |-- fabric-sound-api-v1 1.0.18+78d798af4f
+	   |-- fabric-transfer-api-v1 4.0.12+90f2d7b14f
+	   \-- fabric-transitive-access-wideners-v1 5.0.15+78d798af4f
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- forgeconfigapiport 20.4.3
+	   |-- com_electronwill_night-config_core 3.6.6
+	   \-- com_electronwill_night-config_toml 3.6.6
+	- iceberg 1.1.18
+	- java 21
+	- minecraft 1.20.4
+	- pickupnotifier 20.4.2
+	- puzzleslib 20.4.52
+	- sound_physics_remastered 1.20.4-1.4.5
+	- voicechat 1.20.4-2.5.22
+	   \-- fabric-key-binding-api-v1 1.0.39+f4b7e42432
+[07:50:38] [main/WARN]: Found 1 non-fabric mod:
+	- OptiFine_1.20.4_HD_U_I7.jar
+[07:50:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/mcmiow/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[07:50:38] [main/INFO]: Compatibility level set to JAVA_17
+[07:50:39] [main/WARN]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:50:39] [main/WARN]: Reference map 'pickupnotifier.fabric.refmap.json' for pickupnotifier.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:50:39] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[07:50:46] [main/INFO]: Constructing common components for pickupnotifier:main
+[07:50:46] [main/INFO]: Constructing common components for puzzleslib:main
+[07:50:46] [main/INFO]: [voicechat] Compatibility version 18
+[07:50:46] [main/INFO]: [voicechat] Loading plugins
+[07:50:46] [main/INFO]: [voicechat] Loaded 1 plugin(s)
+[07:50:46] [main/INFO]: [voicechat] Initializing plugins
+[07:50:46] [main/INFO]: Initializing Simple Voice Chat integration
+[07:50:46] [main/INFO]: [voicechat] Initialized 1 plugin(s)
+[07:50:46] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
+[07:50:46] [main/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[07:50:46] [main/WARN]: resource-pack-id missing, using default of 00ee7b18-9104-324e-8912-bc278cfb7a36
+[07:50:46] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:50:48] [main/INFO]: Loaded 7 recipes
+[07:50:49] [main/INFO]: Loaded 1271 advancements
+[07:50:49] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.500 ms
+[07:50:49] [Server thread/INFO]: Loading server config for pickupnotifier
+[07:50:49] [Thread-2/INFO]: Reloading server config for pickupnotifier
+[07:50:49] [Thread-2/INFO]: Reloading server config for pickupnotifier
+[07:50:49] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[07:50:49] [Server thread/INFO]: Loading properties
+[07:50:49] [Server thread/INFO]: Default game type: SURVIVAL
+[07:50:49] [Server thread/INFO]: Generating keypair
+[07:50:49] [Server thread/INFO]: Starting Minecraft server on 147.185.221.26:25565
+[07:50:49] [Server thread/INFO]: Using epoll channel type
+[07:50:49] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[07:50:49] [Server thread/WARN]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Cannot assign requested address
+[07:50:49] [Server thread/WARN]: Perhaps a server is already running on that port?
+[07:50:49] [Server thread/ERROR]: Encountered an unexpected exception
+java.lang.IllegalStateException: Failed to initialize server
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:699) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[07:50:49] [Server thread/ERROR]: This crash report has been saved to: /workspaces/mcmiow/servidor_minecraft/./crash-reports/crash-2025-09-18_07.50.49-server.txt
+[07:50:49] [Server thread/INFO]: Stopping server
+[07:50:49] [Server thread/INFO]: Saving worlds
+[07:50:49] [Server thread/ERROR]: Exception stopping the server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_3218.method_8621()" because "$$5" is null
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:547) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:606) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3782(class_3176.java:542) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:718) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
