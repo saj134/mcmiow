@@ -169,3 +169,16 @@
 [19:25:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b6a04708-4fad-307b-947a-2a82ec983e7c
 [19:25:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player [Datta Fan] Sajancito (b6a04708-4fad-307b-947a-2a82ec983e7c) successfully connected to voice chat
 [19:30:07] [Server thread/INFO]: [[Datta Fan] Sajancito: Successfully filled 8 block(s)]
+[19:31:54] [Server thread/INFO]: [[Datta Fan] Sajancito: Successfully filled 47 block(s)]
+[19:31:56] [Server thread/INFO]: [[Datta Fan] Sajancito: Set own game mode to Spectator Mode]
+[19:31:59] [Server thread/INFO]: [[Datta Fan] Sajancito: Set own game mode to Creative Mode]
+[19:33:17] [Server thread/INFO]: [[Datta Fan] Sajancito: Successfully filled 44 block(s)]
+[19:33:31] [Server thread/INFO]: [[Datta Fan] Sajancito: Successfully filled 44 block(s)]
+[19:33:46] [Server thread/INFO]: [[Datta Fan] Sajancito: Successfully filled 120 block(s)]
+[19:34:52] [Server thread/INFO]: [[Datta Fan] Sajancito: Successfully filled 167 block(s)]
+[19:35:45] [Server thread/INFO]: [[Datta Fan] Sajancito: Created new objective [vida]]
+[19:35:59] [Server thread/INFO]: [[Datta Fan] Sajancito: Set display slot list to show objective vida]
+[19:36:12] [Server thread/INFO]: [[Datta Fan] Sajancito: Set own game mode to Survival Mode]
+[19:36:14] [Server thread/INFO]: [[Datta Fan] Sajancito: Set own game mode to Creative Mode]
+[19:37:25] [Server thread/INFO]: [[Datta Fan] Sajancito: Gamerule naturalRegeneration is now set to: false]
+[19:40:07] [Server thread/INFO]: [[Datta Fan] Sajancito: Created new objective [muertes]]
